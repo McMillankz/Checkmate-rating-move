@@ -1,0 +1,21 @@
+[Event "Daily Blitz Arena"]
+[Site "https://lichess.org/P5ZcbmaI"]
+[Date "2023.08.22"]
+[White "charleton_orlando"]
+[Black "deniskorobitsin"]
+[Result "1-0"]
+[UTCDate "2023.08.22"]
+[UTCTime "19:55:39"]
+[WhiteElo "2098"]
+[BlackElo "1635"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... c6 { [%clk 0:05:00] } 2. d4 { [%clk 0:04:58] } 2... d5 { [%clk 0:04:59] } 3. e5 { [%clk 0:04:58] } 3... Bf5 { [%clk 0:04:59] } 4. h4 { [%clk 0:04:56] } 4... h5 { [%clk 0:04:56] } 5. Bg5 { [%clk 0:04:53] } 5... Qb6 { [%clk 0:04:49] } 6. Bd3 { [%clk 0:04:51] } 6... Bxd3 { [%clk 0:04:46] } 7. Qxd3 { [%clk 0:04:50] } 7... Qxb2 { [%clk 0:04:45] } 8. e6 { [%clk 0:04:37] } 8... Qxa1 { [%clk 0:04:43] } 9. exf7+ { [%clk 0:04:32] } 9... Kxf7 { [%clk 0:04:42] } 10. Qb3 { [%clk 0:04:30] } 10... Qxd4 { [%clk 0:04:39] } 11. Qxb7 { [%clk 0:04:28] } 11... Qe4+ { [%clk 0:04:34] } 12. Ne2 { [%clk 0:04:24] } 12... Qxc2 { [%clk 0:04:10] } 13. Nbc3 { [%clk 0:04:20] } 13... d4 { [%clk 0:04:04] } 14. Qxa8 { [%clk 0:04:18] } 14... dxc3 { [%clk 0:04:02] } 15. Qxb8 { [%clk 0:04:13] } 15... Qb1+ { [%clk 0:04:01] } 16. Qxb1 { [%clk 0:04:11] } 16... c2 { [%clk 0:03:59] } 17. Qxc2 { [%clk 0:04:10] } 17... Nf6 { [%clk 0:03:56] } 18. Qc4+ { [%clk 0:04:08] } 18... Ke8 { [%clk 0:03:55] } 19. Qe6 { [%clk 0:04:05] } 19... c5 { [%clk 0:03:45] } 20. Nf4 { [%clk 0:04:01] } 20... c4 { [%clk 0:03:44] } 21. O-O { [%clk 0:03:59] } 21... c3 { [%clk 0:03:43] } 22. Rb1 { [%clk 0:03:56] } 22... c2 { [%clk 0:03:42] } 23. Rb8# { [%clk 0:03:55] } 1-0
+
+

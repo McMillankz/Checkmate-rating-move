@@ -1,0 +1,21 @@
+[Event "Hourly Atomic Arena"]
+[Site "https://lichess.org/TSfiuCg1"]
+[Date "2023.08.18"]
+[White "elbenjita75115"]
+[Black "deniskorobitsin"]
+[Result "1-0"]
+[UTCDate "2023.08.18"]
+[UTCTime "22:46:04"]
+[WhiteElo "1885"]
+[BlackElo "1322"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Atomic"]
+[TimeControl "120+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:01:00] } 1... f6 { [%clk 0:02:00] } 2. Nd4 { [%clk 0:01:00] } 2... Nh6 { [%clk 0:01:59] } 3. Nf5 { [%clk 0:00:59] } 3... Nxf5 { [%clk 0:01:58] } 4. Nc3 { [%clk 0:00:58] } 4... c6 { [%clk 0:01:56] } 5. e4 { [%clk 0:00:57] } 5... Qc7 { [%clk 0:01:53] } 6. e5 { [%clk 0:00:54] } 6... fxe5 { [%clk 0:01:43] } 7. Nd5 { [%clk 0:00:49] } 7... e6 { [%clk 0:01:39] } 8. Nxc7 { [%clk 0:00:47] } 1-0
+
+

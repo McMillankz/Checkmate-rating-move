@@ -1,0 +1,21 @@
+[Event "Weekly Antichess Arena"]
+[Site "https://lichess.org/5aOT2l7E"]
+[Date "2023.08.18"]
+[White "danielmarin255576"]
+[Black "deniskorobitsin"]
+[Result "1-0"]
+[UTCDate "2023.08.18"]
+[UTCTime "21:19:34"]
+[WhiteElo "1314"]
+[BlackElo "1368"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-10"]
+[Variant "Antichess"]
+[TimeControl "180+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... g5 { [%clk 0:03:00] } 2. Bxg5 { [%clk 0:02:56] } 2... Bg7 { [%clk 0:02:57] } 3. Bxe7 { [%clk 0:02:53] } 3... Bxd4 { [%clk 0:02:56] } 4. Qxd4 { [%clk 0:02:52] } 4... Qxe7 { [%clk 0:02:53] } 5. Qxd7 { [%clk 0:02:50] } 5... Qxe2 { [%clk 0:02:51] } 6. Bxe2 { [%clk 0:02:47] } 6... Kxd7 { [%clk 0:02:41] } 7. Ba6 { [%clk 0:02:43] } 7... bxa6 { [%clk 0:02:41] } 8. Ne2 { [%clk 0:02:39] } 8... Ne7 { [%clk 0:02:38] } 9. f4 { [%clk 0:02:23] } 9... Ng8 { [%clk 0:02:16] } 10. Rg1 { [%clk 0:02:12] } 10... h6 { [%clk 0:02:10] } 11. g3 { [%clk 0:02:08] } 11... f6 { [%clk 0:02:03] } 12. Nec3 { [%clk 0:02:00] } 12... a5 { [%clk 0:01:36] } 13. Nb5 { [%clk 0:01:50] } 13... Ke6 { [%clk 0:01:25] } 14. Nxa7 { [%clk 0:01:48] } 14... Rxa7 { [%clk 0:01:25] } 15. b4 { [%clk 0:01:46] } 15... axb4 { [%clk 0:01:24] } 16. Nc3 { [%clk 0:01:36] } 16... bxc3 { [%clk 0:01:23] } 17. Kd2 { [%clk 0:01:34] } 17... cxd2 { [%clk 0:01:21] } 18. Rac1 { [%clk 0:01:27] } 18... dxc1=K { [%clk 0:01:19] } 19. Rxc1 { [%clk 0:01:25] } 19... Rxa2 { [%clk 0:01:14] } 20. Rd1 { [%clk 0:01:18] } 20... Rxc2 { [%clk 0:01:12] } 21. Rd2 { [%clk 0:01:14] } 21... Rxd2 { [%clk 0:01:11] } 22. f5 { [%clk 0:01:13] } 22... Kxf5 { [%clk 0:01:10] } 23. g4 { [%clk 0:01:12] } 23... Kxg4 { [%clk 0:01:09] } 24. h3 { [%clk 0:01:12] } 24... Kxh3# { [%clk 0:01:09] } 1-0
+
+
